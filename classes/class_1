@@ -1,0 +1,12 @@
+Dessert
+carbs_per_gram (float)
+fat_per_gram (float)
+protein_per_gram (float)
+temperature (float)
+served_cold (Boolean)
+
+substitute_sugar (reduces carbs_per_gram)
+substitute_cream (reduces fat_per_gram)
+make_healthy (reduces carbs_per_gram and fat_per_gram and increases protein_per_gram)
+heat_in_microwave (may change served_cold from True to False and increases temperature)
+chill_in_fridge (reduces temperature and may change served_cold from False to True)
