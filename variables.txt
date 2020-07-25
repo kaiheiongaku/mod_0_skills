@@ -1,0 +1,9 @@
+food = "chili mac"
+is_delicious = true
+food = "apple"
+num2 = 10
+num7 = 15
+num7 / num2 = quotient
+songs = ['Moonlight Sonata', 'Symphony no. 5', 'Egmont Overture']
+songs.slice(1,2)
+food.length
