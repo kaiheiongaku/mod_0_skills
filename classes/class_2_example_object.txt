@@ -1,0 +1,20 @@
+stock_pot
+
+diameter = 10
+height = 15
+material = "steel"
+currently_clean = False
+filled = False
+internal_temperature = 75
+
+volume = 150
+run_in_dishwasher
+
+currently_clean = True
+make_dish
+
+filled = True
+internal_temperature = 95
+
+flash_boil
+internal_temperature = 150

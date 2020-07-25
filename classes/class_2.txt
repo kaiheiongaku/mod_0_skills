@@ -1,0 +1,12 @@
+Pot
+diameter (int)
+height (int)
+material (str)
+currently_clean (Boolean)
+filled (Boolean)
+internal_temperature (int)
+
+volume (multiplies diameter by height)
+run_in_dishwasher (changes currently_clean from False to True)
+make_dish (changes filled from False to True and increases internal_temperature)
+flash_boil (increases internal_temperature by a large number)
