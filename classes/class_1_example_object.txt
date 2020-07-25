@@ -1,0 +1,19 @@
+pumpkin_pie
+
+carbs_per_gram = 5.1
+fat_per_gram = 2.5
+sugar_per_gram = 10.2
+temperature = 45
+
+chill_in_fridge
+temperature = 39
+
+heat_in_microwave
+temperature = 65
+
+make_skinny
+fat_per_gram = 1.0
+sugar_per_gram = 5.2
+
+substitute_flour
+carbs_per_gram = 0.9
