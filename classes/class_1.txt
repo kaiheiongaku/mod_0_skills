@@ -1,0 +1,11 @@
+Dessert
+
+carbs_per_gram (float)
+fat_per_gram (float)
+sugar_per_gram (float)
+temperature (int)
+
+chill_in_fridge (reduces temperature)
+heat_in_microwave (increases temperature)
+make_skinny (decreases fat_per_gram and sugar_per_gram)
+substitute_flour (decreases carbs_per_gram)
